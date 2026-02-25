@@ -232,7 +232,7 @@ QString SerialStudio::dashboardWidgetTitle(const DashboardWidget w)
       return tr("Multiple Data Plots");
       break;
     case DashboardAccelerometer:
-      return tr("Accelerometers");
+      return tr("LOL");
       break;
     case DashboardGyroscope:
       return tr("Gyroscopes");
