@@ -2,7 +2,7 @@
 # Serial Studio
 # https://serial-studio.com/
 #
-# Copyright (C) 2020–2025 Alex Spataru
+# Copyright (C) 2020–2025 Samuel Spataru
 #
 # This file is dual-licensed:
 #
