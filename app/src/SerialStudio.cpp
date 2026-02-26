@@ -226,13 +226,13 @@ QString SerialStudio::dashboardWidgetTitle(const DashboardWidget w)
 {
   switch (w) {
     case DashboardDataGrid:
-      return tr("Data Grids");
+      return tr("LOL Data Grids Test");
       break;
     case DashboardMultiPlot:
       return tr("Multiple Data Plots");
       break;
     case DashboardAccelerometer:
-      return tr("LOL !!!");
+      return tr("Accelerometers");
       break;
     case DashboardGyroscope:
       return tr("Gyroscopes");
